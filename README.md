@@ -1,10 +1,11 @@
-# project hotel
+# Project hotel
 
-*commercial hotel website work
+*Commercial hotel website work*
 
 - Node.js
-- PostgreSQL(pg-promise)
-- express/ejs
-- react(admin page === SPA + react-route + material-ui)
-- webpack
-- babel
+- PostgreSQL
+- Express.js
+- React
+- MUI
+- Webpack
+- Babel
